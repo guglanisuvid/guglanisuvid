@@ -17,4 +17,5 @@ Currently working remotely with a Bengaluru-based startup, building and maintain
 
 ## Connect With Me
 
+* Portfolio: https://suvidguglani.vercel.app/
 * LinkedIn: https://www.linkedin.com/in/suvidguglani/
