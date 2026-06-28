@@ -2,22 +2,15 @@
 
 Full stack engineer. Builder.
 
-Production work across React, Node.js, FastAPI, 
-PostgreSQL, Docker, and AWS — currently at eComSuite, 
-a Bengaluru-based startup building tooling for 
-Amazon sellers.
-
-Outside of work — open source, CLI tools, 
-AI-native projects. If something bothers me 
-enough, I build a solution.
+Powered by curiosity and bad ideas that turn good.
 
 ## Stack
 
-**Frontend** — React · Redux · TypeScript · Tailwind CSS  
-**Backend** — Node.js · Express.js · Python · FastAPI  
-**Data** — PostgreSQL · MongoDB · SQL  
-**Infrastructure** — Docker · AWS · GitHub Actions · CI/CD  
-**AI & Emerging** — RAG Pipelines · MCP Architecture · LLMs  
+**Frontend** - React · Redux · TypeScript · Tailwind CSS  
+**Backend** - Node.js · Express.js · Python · FastAPI  
+**Data** - PostgreSQL · MongoDB · SQL  
+**Infrastructure** - Docker · AWS · GitHub Actions · CI/CD  
+**AI & Emerging** - RAG Pipelines · MCP Architecture · LLMs  
 
 ## Projects
 
